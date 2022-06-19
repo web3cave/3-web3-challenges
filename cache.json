@@ -11,7 +11,7 @@
           "description": "A fun, free platform for learning modern cryptography",
           "link": "https://cryptohack.org/challenges/",
           "publishedOn": "2022-06-02T06:17:51.000Z",
-          "wordCount": 120,
+          "wordCount": 365,
           "title": "CRYPTOHACK",
           "imageUrl": "https://cryptohack.org/static/img/banner.png"
         },
@@ -21,7 +21,7 @@
           "description": "A Smart Contract Security Playground\n\nCipher Shastra is a playground where anyone can enhance their Security Skills by solving and learning from CTF like challenges.\n\nThe playground is open source and anyone can contribute challenges to it Twitter: @ciphershastra",
           "link": "https://ciphershastra.com/",
           "publishedOn": "2022-06-02T06:17:51.000Z",
-          "wordCount": 65,
+          "wordCount": 107,
           "title": "Cipher Shastra",
           "imageUrl": null
         },
@@ -41,7 +41,7 @@
           "description": "A Web3 based wargame played in the Ethereum Virtual Machine",
           "link": "https://ethernaut.openzeppelin.com/",
           "publishedOn": "2022-06-02T06:17:51.000Z",
-          "wordCount": 1,
+          "wordCount": 67,
           "title": "The Ethernaut",
           "imageUrl": null
         },
@@ -71,7 +71,7 @@
           "description": "Learn to Code Blockchain DApps By Building Simple Games",
           "link": "https://cryptozombies.io/",
           "publishedOn": "2022-06-02T06:17:51.000Z",
-          "wordCount": 322,
+          "wordCount": 415,
           "title": "CryptoZombies",
           "imageUrl": "https://cryptozombies.io/course/static/image/preview-zombie.png"
         },
@@ -81,12 +81,12 @@
           "description": "Capture the Ether is a game in which you hack Ethereum smart contracts to learn about security.",
           "link": "https://capturetheether.com/",
           "publishedOn": "2022-06-02T06:17:51.000Z",
-          "wordCount": 206,
+          "wordCount": 357,
           "title": "Capture the Ether",
           "imageUrl": null
         }
       ]
     }
   ],
-  "cliVersion": "1.14.4"
+  "cliVersion": "1.15.0"
 }
