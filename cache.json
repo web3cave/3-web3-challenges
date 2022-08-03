@@ -4,7 +4,88 @@
       "title": "Web3 Challengess RSS",
       "feedUrl": "https://web3cave.github.io/web3-challenges-data/data.xml",
       "siteUrl": "https://web3cave.github.io/web3-challenges-data/data.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://cryptohack.org/challenges/",
+          "author": null,
+          "description": "A fun, free platform for learning modern cryptography",
+          "link": "https://cryptohack.org/challenges/",
+          "publishedOn": "2022-08-02T06:16:37.000Z",
+          "wordCount": 365,
+          "title": "CRYPTOHACK",
+          "imageUrl": "https://cryptohack.org/static/img/banner.png"
+        },
+        {
+          "id": "https://ciphershastra.com/",
+          "author": null,
+          "description": "A Smart Contract Security Playground\n\nCipher Shastra is a playground where anyone can enhance their Security Skills by solving and learning from CTF like challenges.\n\nThe playground is open source and anyone can contribute challenges to it Twitter: @ciphershastra",
+          "link": "https://ciphershastra.com/",
+          "publishedOn": "2022-08-02T06:16:37.000Z",
+          "wordCount": 113,
+          "title": "Cipher Shastra",
+          "imageUrl": null
+        },
+        {
+          "id": "https://vyper.fun/",
+          "author": null,
+          "description": "Learn Vyper by building a Pokémon Game!",
+          "link": "https://vyper.fun/",
+          "publishedOn": "2022-08-02T06:16:37.000Z",
+          "wordCount": null,
+          "title": "VyperFun",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ethernaut.openzeppelin.com/",
+          "author": null,
+          "description": "A Web3 based wargame played in the Ethereum Virtual Machine",
+          "link": "https://ethernaut.openzeppelin.com/",
+          "publishedOn": "2022-08-02T06:16:37.000Z",
+          "wordCount": 68,
+          "title": "The Ethernaut",
+          "imageUrl": null
+        },
+        {
+          "id": "https://etherhack.positive.com/",
+          "author": null,
+          "description": "At PHDays security conference a new contest called EtherHack was held, to solve all tasks which featured smart contract vulnerabilities.",
+          "link": "https://etherhack.positive.com/",
+          "publishedOn": "2022-08-02T06:16:37.000Z",
+          "wordCount": 1,
+          "title": "Etherhack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.damnvulnerabledefi.xyz/",
+          "author": null,
+          "description": "Damn Vulnerable DeFi is the wargame to learn offensive security of DeFi smart contracts.\n\nThroughout numerous challenges you will build the skills to become a bug hunter or security auditor in the space.",
+          "link": "https://www.damnvulnerabledefi.xyz/",
+          "publishedOn": "2022-08-02T06:16:37.000Z",
+          "wordCount": 241,
+          "title": "Damn Vulnerable DeFi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cryptozombies.io/",
+          "author": null,
+          "description": "Learn to Code Blockchain DApps By Building Simple Games",
+          "link": "https://cryptozombies.io/",
+          "publishedOn": "2022-08-02T06:16:37.000Z",
+          "wordCount": 415,
+          "title": "CryptoZombies",
+          "imageUrl": "https://cryptozombies.io/course/static/image/preview-zombie.png"
+        },
+        {
+          "id": "https://capturetheether.com/",
+          "author": null,
+          "description": "Capture the Ether is a game in which you hack Ethereum smart contracts to learn about security.",
+          "link": "https://capturetheether.com/",
+          "publishedOn": "2022-08-02T06:16:37.000Z",
+          "wordCount": 357,
+          "title": "Capture the Ether",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
